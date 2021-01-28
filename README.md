@@ -22,11 +22,12 @@ Ich selbst nutze den KleinPC „Raspberry“, auf dem ein vom Hobbybrauer- Forum
 Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlosen "Grainfather Connect Server" sendet und am Handy die "Grainfather Connect Mobile App" installiert
 wird.
 
+## Informationen:
 
 Gesamtübersicht: 
 www.ispindel.de mit Verweis auf https://braumagazin.de/article/ispindel-die-idee/
 
-Links:
+Link:
 http://hobbybrauer.de
 
 iSpindel Aufbau und Betrieb:
@@ -34,6 +35,7 @@ https://hobbybrauer.de/forum/viewtopic.php?f=58&t=11826&sid=56a730a541ae07d10c79
 
 iSpindel lokaler Server:
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
+
 
 Allzeit gut Sud
 
