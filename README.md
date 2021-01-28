@@ -26,4 +26,5 @@ wird.
 Gesamtübersicht: www.ispindel.de mit Verweis auf https://braumagazin.de/article/ispindel-die-idee/
 
 Allzeit gut Sud
+
 Christian
