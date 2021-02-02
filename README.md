@@ -1,6 +1,6 @@
 # Was ist die iSpindel?
 
-Die iSpindel wurde von den Hobbybrauerforum.de Mitgliedern entwickelt und ist für nicht kommerzielle Zwecke freigegeben.
+Die iSpindel wurde von den **Hobbybrauerforum.de** Mitgliedern entwickelt und ist für nicht kommerzielle Zwecke freigegeben.
 
 ## Prinzip:
 
@@ -12,7 +12,7 @@ nicht zu erwarten.
 
 Die iSpindel (Elektronik Hydrometer) sendet die Daten (Neigungswinkel/Extraktgehalt, Temperatur und Akkuspannung) in einem einstellbaren Intervall über WLAN, speichert selbst
 aber keine Daten. Als Datenempfänger kann ein konfigurierter, durchlaufender lokaler Server (z.B.: craftbeerpi, RasPySpindel …) oder ein öffentlicher Server (z.B.: Ubidots STEM,
-Grainfather Connect ...) dienen. Vom Handy oder PC, kann dann per Browser, auf einen dieser Datensammler zugegriffen werden.
+Grainfather-APP ...) dienen. Vom Handy oder PC, kann dann per Browser, auf einen dieser Datensammler zugegriffen werden.
 
 ## Betrieb:
 
