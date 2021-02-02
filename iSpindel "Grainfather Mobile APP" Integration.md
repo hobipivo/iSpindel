@@ -24,6 +24,7 @@ Die Geräte-Setup Anweisungen ausführen:
 15.	 „Username“ und „Password“ falls vorhanden – löschen
 16.	 Stellen Sie sicher, dass Ihr Polynom Ihre vollständig kalibrierte Formel enthält.
 17.	 Auf „Save“ klicken
+
 Die an den „Grainfather Community Server“ gesendeten Daten können nun unter „Ausrüstung“ > „Fermentation Tracking“ > „iSpindelname“ eingesehen werden.
 Diese kann man dann auch als Device in der Brausession hinzufügen und die Daten (Dichte & Temperatur) mitloggen lassen.
 
