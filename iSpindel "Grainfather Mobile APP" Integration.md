@@ -10,7 +10,7 @@ Die Geräte-Setup Anweisungen ausführen:
 2.	Zum iSpindel WiFi Netzwerk mit dem Mobile-Telefon oder NB, PC verbinden
 3.	Die Configuration Seite anklicken
 *Wenn noch nicht eingetragen:*
-4.	Wenn noch nicht eingetragen: Ihr WiFi Netzwerk (SSID-Namen) auswählen oder eintragen
+4.	Ihr WiFi Netzwerk (SSID-Namen) auswählen oder eintragen
 5.	Password des WiFi Netzwerks eintragen
 6.	Namen für die iSpindel vergeben
 7.	Interval **900** sec. oder höher eintragen
