@@ -17,7 +17,7 @@ Die Geräte-Setup Anweisungen ausführen:
 8.	Bei „Unit of temperature“ Celsius auswählen
 9.	Bei “Service Type” **http** auswählen
 10.	 Wenn die Server Address und Port Felder nicht angezeigt werden, ändern Sie erneut den „Service Type“ 
-11.	 „Token“ Feld löschen
+11.	 Inhalt von „Token“ Feld löschen
 12.	 Unter „Server Address“ **community.grainfather.com** eintragen
 13.	 Unter “Server Port” **80** eintragen
 14.	 Unter “Server URL” den angezeigten Wert übertragen **/iot/xxxx-yyyy/ispindel**   *(xxxx-yyyy ist eine individuelle ID)*
