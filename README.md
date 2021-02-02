@@ -24,26 +24,20 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 ## Zusätzliche Informationen:
 
 Gesamtübersicht:
-
 www.ispindel.de mit Verweis auf https://braumagazin.de/article/ispindel-die-idee/
 
 Link-Forum:
-
 http://hobbybrauer.de
 
 iSpindel Aufbau und Betrieb:
-
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=11826&sid=56a730a541ae07d10c799c6e2ac5bcef
 
 iSpindel lokaler Server:
-
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
 iSpindel Einbindung in Ubidots STEM (Englisch):
-
 https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-hydrometer-with-ubidots
 
 
 Allzeit gut Sud
-
 Christian
