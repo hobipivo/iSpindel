@@ -40,6 +40,9 @@ iSpindel lokaler Server:
 
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
+iSpindel Einbindung in Ubidots STEM (Englisch)
+
+https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-hydrometer-with-ubidots
 
 
 Allzeit gut Sud
