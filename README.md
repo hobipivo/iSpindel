@@ -19,7 +19,7 @@ Grainfather Connect ...) dienen. Vom Handy oder PC, kann dann per Browser, auf e
 Die Laufzeit des Akku beträgt bei einem Sendeintervall von 900 sec. ca. 4 Monate. 
 Ich selbst nutze den KleinPC „Raspberry“, auf dem ein vom Hobbybrauer- Forum zur Verfügung gestelltes Image „RasPySpindel“ installiert wurde.
  
-Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlosen "Grainfather Connect Server" sendet und am Handy die "Grainfather Connect Mobile App" installiert [Link zu GF APP Integration] (iSpindel "Grainfather Connect APP" Integration.md)
+Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlosen "Grainfather Connect Server" sendet und am Handy die "Grainfather Connect Mobile App" installiert [Link zu GF-APP Integration] (iSpindel "Grainfather Connect APP" Integration.md)
 wird.
 
 ## Zusätzliche Informationen:
@@ -40,7 +40,7 @@ iSpindel lokaler Server:
 
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
-iSpindel Einbindung in Ubidots STEM (Englisch)
+iSpindel Einbindung in Ubidots STEM (Englisch):
 
 https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-hydrometer-with-ubidots
 
