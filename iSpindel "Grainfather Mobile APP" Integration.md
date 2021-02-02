@@ -1,8 +1,10 @@
 # iSpindel „Grainfather Connect Mobile APP“ Integration
 
 Die „Grainfather Connect Mobile APP“ **GF-APP** von der Grainfather Community am Mobiltelefon aus dem Store installieren, Konto anlegen und anmelden.
+
 Gehen Sie in der Grainfather App auf die Ausrüstungs-Seite und klicken Sie auf das **+** Symbol, wählen Sie „Fermentationsverfolgungsanlagen“ dort „iSpindel DIY electronic Hydrometer“ auswählen, im Fenster den Gerätenamen (iSpindel-Namen) eintragen und auf „Speichern“ klicken. 
 Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
+
 Die Geräte-Setup Anweisungen ausführen:
 1.	iSpindel einschalten und die Resettaste am Wemos-Modul (größte Platine auf der iSpindel) 3x schnell drücken. (Wenn die iSpindel noch nicht konfiguriert wurde, geht diese automatisch in den Konfig-Modus)
 2.	Zum iSpindel WiFi Netzwerk mit dem Mobile-Telefon oder NB, PC verbinden
