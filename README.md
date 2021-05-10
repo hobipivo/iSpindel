@@ -38,6 +38,8 @@ https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 iSpindel Einbindung in Ubidots STEM (Englisch):
 https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-hydrometer-with-ubidots
 
+iSpindel Einbindung in Ubidots (Deutsch):
+https://braumagazin.de/article/ispindel-die-visualisierung-der-daten/
 
 Allzeit gut Sud
 
