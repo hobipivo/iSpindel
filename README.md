@@ -34,6 +34,9 @@ https://hobbybrauer.de/forum/viewtopic.php?f=58&t=11826&sid=56a730a541ae07d10c79
 iSpindel lokaler Server:
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
+iSpindel Einbindung in Brewfather (Englisch):
+https://docs.brewfather.app/integrations/ispindel
+
 iSpindel Einbindung in Ubidots STEM (Englisch):
 https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-hydrometer-with-ubidots
 
