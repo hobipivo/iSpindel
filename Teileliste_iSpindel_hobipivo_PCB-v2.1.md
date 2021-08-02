@@ -1,4 +1,4 @@
-# Stückliste für iSpindel “hobipivo PCB v2.1”:
+# Bauteileliste für iSpindel “hobipivo PCB v2.1”:
   
   
   
@@ -19,7 +19,8 @@
 
 [**Akku Panasonic NCR18650B (FLAT ohne Schutz) 3,6V 3400mAh**](https://www.reichelt.de/at/de/industriezelle-18650-3-6-v-3400-mah-ungeschuetzt-2er-pack-pan-18650-b-p261047.html?search=+NCR18650B&&r=1)
 
-[**BAT43 (oder BAT85) Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
+[**BAT43 Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
+- [Alternative: BAT85 Schottky Diode](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=bat85)
 
 [**220k Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-220-kohm-0207-0-6-w-1--metall-220k-p11628.html?search=220k++Metallschichtwiderstand+0%2C6W&&r=1)
 
