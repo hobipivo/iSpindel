@@ -1,13 +1,14 @@
 # Stückliste für iSpindel “hobipivo PCB v2.1”:
 
 
+
 **Platine: hobipivo PCB v2.1** 
 
 [**PETling ~123 x d33 mm**](https://www.ebay.de/itm/132379354446?hash=item1ed26ca54e:g:0LkAAOSwe-FU4GqL)
 
 [**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
 
-[Alternative: D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
+  [Alternative: D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
@@ -32,8 +33,9 @@ https://www.reichelt.de/at/de/schiebeschalter-1x-um-liegend-print-rm-2-54-ss-esp
 
 # *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
-Alternative: IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)
-Alternative: IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)
+
+  Alternative: IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)
+  Alternative: IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)
 
 
 # *Optionale elektronische Verpolungswarnung -anzeige:*
