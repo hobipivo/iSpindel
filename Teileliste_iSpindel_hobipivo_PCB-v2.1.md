@@ -28,8 +28,7 @@
 
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/50-pcs-Position-Switch-rechts-Winkel/dp/B007QAJF4O/ref=pd_sbs_3/258-8204992-6770268?pd_rd_w=GQMP6&pf_rd_p=b1c388c3-48c2-4960-8532-fa8f1477aee9&pf_rd_r=XVTDM18EXMC9M5ZJ66PX&pd_rd_r=279863d4-159d-4059-a86e-b8b5d3dcb9d6&pd_rd_wg=iqLwO&pd_rd_i=B007QAJF4O&psc=1)
 
-Notlösung SS ESP201 – (Rastermaß 2,54)
-https://www.reichelt.de/at/de/schiebeschalter-1x-um-liegend-print-rm-2-54-ss-esp201-p112179.html?search=ESP201&&r=1
+- [Notlösung SS ESP201 – (Rastermaß 2,54)](https://www.reichelt.de/at/de/schiebeschalter-1x-um-liegend-print-rm-2-54-ss-esp201-p112179.html?search=ESP201&&r=1)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
