@@ -2,7 +2,7 @@
 
 **Platine: hobipivo PCB v2.1** 
 
-[ PETling ~123 x d33 mm ] ( https://www.ebay.de/itm/132379354446?hash=item1ed26ca54e:g:0LkAAOSwe-FU4GqL )
+[PETling ~123 x d33 mm](https://www.ebay.de/itm/132379354446?hash=item1ed26ca54e:g:0LkAAOSwe-FU4GqL)
 
 **Wemos D1 mini ESP-8266: 34,2x25,6 mm micro-USB V3.0**
 https://www.amazon.de/dp/B08BTYHJM1/
