@@ -33,9 +33,9 @@
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
 
--  Alternative: IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)
+-  [Alternative: IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)
   
- - Alternative: IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)
+ - [Alternative: IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irll024ntrpbf)
 
 
 ## *Optionale elektronische Verpolungswarnung -anzeige:*
