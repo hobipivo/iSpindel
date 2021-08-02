@@ -2,12 +2,12 @@
 
 
 
+
 **Platine: hobipivo PCB v2.1** 
 
 [**PETling ~123 x d33 mm**](https://www.ebay.de/itm/132379354446?hash=item1ed26ca54e:g:0LkAAOSwe-FU4GqL)
 
 [**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
-
  - [Alternative: D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
