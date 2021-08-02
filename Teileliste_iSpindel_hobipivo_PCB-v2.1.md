@@ -2,7 +2,7 @@
   
   
   
-**Platine hobipivo PCB v2.1** 
+  **Platine hobipivo PCB v2.1** 
 
 [**PETling ~123 x d33 mm**](https://www.ebay.de/itm/132379354446?hash=item1ed26ca54e:g:0LkAAOSwe-FU4GqL)
 
