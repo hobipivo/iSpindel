@@ -18,7 +18,7 @@ Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
 5.	Unter „Value“ bei „GRAINCONNECT_URL“ den Inhalt der „ServerURL“ aus „View Setup Instructions (Geräte-Setup Anweisungen)“ **/iot/xxxx-yyyy/ispindel** eintragen
 6.	Unter „Section Auswahl“ **"Settings in DB schreiben"** aufrufen
 
-Die an den „Grainfather Community Server“ gesendeten Daten können nun unter „Ausrüstung“ > „Fermentation Tracking“ > „iSpindelname“ eingesehen werden.
+Die an den „Grainfather Community Server“ gesendeten Daten können nun unter „Ausrüstung“ > „Fermentation Tracking“ > „iSpindel-Name“ eingesehen werden.
 Diese kann man dann auch als Device in der Brausession hinzufügen und die Daten (Dichte & Temperatur) mitloggen lassen.
 
 Viel Erfolg
