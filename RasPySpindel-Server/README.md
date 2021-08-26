@@ -1,6 +1,6 @@
 # Was ist der RasPySpindel Server?
 
-Der RasPySpindelServer wurde von den **Hobbybrauerforum.de** Mitgliedern entwickelt.
+Der RasPySpindel Server wurde von den **Hobbybrauerforum.de** Mitgliedern entwickelt.
 
 ## Prinzip:
 
@@ -27,6 +27,7 @@ https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
 Hobbybrauer-Forum > RasPySpindel Server Image vorinstalliert:
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=15915
+
 
 Allzeit gut Sud
 
