@@ -1,6 +1,6 @@
 # Was ist der RasPySpindel Server?
 
-Der RasPySpindel Server wurde von den **Hobbybrauer.de** Forums-Mitgliedern entwickelt.
+Der RasPySpindel Server (iSpindel-TCP-Server) wurde von den **Hobbybrauer.de** Forums-Mitgliedern entwickelt.
 
 Es gibt ein vorbereitetes Image für den RaspberryPI oder man installiert die Sotwarekomponenten auf ein bestehendes System.
 
