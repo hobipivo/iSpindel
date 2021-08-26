@@ -8,7 +8,7 @@ Es gibt ein vorbereitetes Image für den RaspberryPI oder man installiert die So
 
 ## Prinzip/Funktion/Betrieb:
 
-Der lokale Server empfängt die Daten der iSpindeln über das TCP Protokoll Port: 5901.
+Der lokale Server empfängt die Daten der iSpindeln über das TCP Protokoll Port: 9501.
 
 Über die "Landing Page" http://meinraspi/ispindle/ können die entsprechenden Diagramme ausgewählt und angezeigt werden.
 
