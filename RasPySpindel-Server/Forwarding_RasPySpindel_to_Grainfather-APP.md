@@ -7,8 +7,7 @@ Die „Grainfather Connect Mobile APP“ **GF-APP** von der Grainfather Communit
 2. **„Fermentationsverfolgungsanlagen“** auswählen 
 3. **„iSpindel DIY electronic Hydrometer“** auswählen
 4. iSpindel-Namen eintragen und auf „Speichern“ klicken.
-
-Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
+5. Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
 
 ## Konfiguration am RasPySpindel Server:
 1.	Auf dem RasPySpindel-Server die "Landing Page" http://meinraspi/ispindle/  **"TCP Server Settings Editieren"** aufrufen
