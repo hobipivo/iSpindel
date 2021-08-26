@@ -9,7 +9,9 @@ Es gibt ein vorbereitetes Image für den RaspberryPI oder man installiert die So
 ## Prinzip/Funktion/Betrieb:
 
 Der Server empfängt die Daten der iSpindeln über TCP Port: 5901.
+
 Über die "Landing Page" http://meinraspi/ispindle/ können die entsprechenden Diagramme ausgewählt und angezeigt werden.
+
 Die eingehenden iSpindel-Daten können auch an verschiedene Systeme weitergeleitet werden.
 
 
