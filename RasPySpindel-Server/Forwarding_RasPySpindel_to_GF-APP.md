@@ -21,4 +21,7 @@ Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
 Die an den „Grainfather Community Server“ gesendeten Daten können nun unter „Ausrüstung“ > „Fermentation Tracking“ > „iSpindel-Name“ eingesehen werden.
 Diese kann man dann auch als Device in der Brausession hinzufügen und die Daten (Dichte & Temperatur) mitloggen lassen.
 
+
+Für jede ISpindel müssen individuelle Settings angelegt werden!
+
 Viel Erfolg
