@@ -1,6 +1,6 @@
 # Was ist die iSpindel?
 
-Die iSpindel wurde von den **Hobbybrauerforum.de** Mitgliedern entwickelt und ist für nicht kommerzielle Zwecke freigegeben.
+Die iSpindel wurde von den **Hobbybrauer.de** Forums-Mitgliedern entwickelt und ist für nicht kommerzielle Zwecke freigegeben.
 
 ## Prinzip:
 
