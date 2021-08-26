@@ -1,6 +1,6 @@
 # Was ist der RasPySpindel Server?
 
-Der RasPySpindel Server wurde von den **Hobbybrauerforum.de** Mitgliedern entwickelt.
+Der RasPySpindel Server wurde von den **Hobbybrauer.de** Forums-Mitgliedern entwickelt.
 
 ## Prinzip:
 
