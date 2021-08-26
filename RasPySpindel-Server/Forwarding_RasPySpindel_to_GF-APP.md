@@ -11,7 +11,7 @@ Die „Grainfather Connect Mobile APP“ **GF-APP** von der Grainfather Communit
 Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
 
 ## Konfiguration am RasPySpindel Server:
-1.	Auf der RasPySpindel-Server Webseite **"TCP Server Settings Editieren"** aufrufen
+1.	Auf der RasPySpindel-Server die "Landing Page" http://meinraspi/ispindle/  **"TCP Server Settings Editieren"** aufrufen
 2.	Unter „Section Auswahl“ in der letzten Zeile, neben dem iSpindelNamen, **"Individuelle Settings für Device anlegen"** bestätigen
 3.	Unter „Section Auswahl“ bei „Device“ den iSpindel-Namen und bei „Section“ **"GRAINCONNECT"** auswählen
 4.	Unter „Value“ bei „ENABLE_GRAINCONNECT“ eine **1** für die Aktivierung der Weiterleitung eintragen
