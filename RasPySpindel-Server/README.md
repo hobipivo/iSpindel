@@ -8,7 +8,7 @@ Es gibt ein vorbereitetes Image für den RaspberryPI oder man installiert die So
 
 ## Prinzip/Funktion/Betrieb:
 
-Der lokale Server empfängt die Daten der iSpindeln über das TCP Protokoll Port: 9501.
+Der lokale Server nimmt die Daten der iSpindeln über das TCP Protokoll Port: 9501 entgegen und speichert sie in einer SQL Datenbank und/oder als CSV Datei.
 
 Über die "Landing Page" http://meinraspi/ispindle/ können die entsprechenden Diagramme ausgewählt und angezeigt werden.
 
