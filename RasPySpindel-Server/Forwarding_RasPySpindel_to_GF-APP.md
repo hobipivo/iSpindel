@@ -22,6 +22,6 @@ Die an den „Grainfather Community Server“ gesendeten Daten können nun unter
 Diese kann man dann auch als Device in der Brausession hinzufügen und die Daten (Dichte & Temperatur) mitloggen lassen.
 
 
-Für jede ISpindel müssen individuelle Settings angelegt werden!
+Für jede iSpindel müssen individuelle Settings angelegt werden!
 
 Viel Erfolg
