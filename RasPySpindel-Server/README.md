@@ -23,7 +23,7 @@ https://github.com/DottoreTozzi/iSpindel-TCP-Server
 Weiterentwicklung:
 https://github.com/avollkopf/iSpindel-TCP-Server
 
-Hobbybrauer-Forum > iSpindel-TCP-Server:
+Hobbybrauer-Forum > iSpindel- Lokaler Server:
 https://hobbybrauer.de/forum/viewtopic.php?f=58&t=12869
 
 Hobbybrauer-Forum > RasPySpindel Server Image vorinstalliert:
