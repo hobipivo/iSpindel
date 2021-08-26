@@ -9,12 +9,14 @@ Die „Grainfather Connect Mobile APP“ **GF-APP** von der Grainfather Communit
 4. iSpindel-Namen eintragen und auf „Speichern“ klicken.
 5. Die gespeicherte iSpindel auswählen und auf „View Instructions“ klicken.
 
+Die angezeigte "Server URL" wird bei der Konfiguration des RasPySpindel-Servers benötigt.
+
 ## Konfiguration am RasPySpindel Server:
 1.	Auf dem RasPySpindel-Server die "Landing Page" http://meinraspi/ispindle/  **"TCP Server Settings Editieren"** aufrufen
 2.	Unter „Section Auswahl“ in der letzten Zeile, neben dem iSpindelNamen, **"Individuelle Settings für Device anlegen"** bestätigen
 3.	Unter „Section Auswahl“ bei „Device“ den iSpindel-Namen und bei „Section“ **"GRAINCONNECT"** auswählen
 4.	Unter „Value“ bei „ENABLE_GRAINCONNECT“ eine "**1**" für die Aktivierung der Weiterleitung eintragen
-5.	Unter „Value“ bei „GRAINCONNECT_URL“ den Inhalt der „ServerURL“ aus „View Setup Instructions (Geräte-Setup Anweisungen)“ **/iot/xxxx-yyyy/ispindel** eintragen
+5.	Unter „Value“ bei „GRAINCONNECT_URL“ den Inhalt der „Server URL“ aus „View Setup Instructions (Geräte-Setup Anweisungen)“ **/iot/xxxx-yyyy/ispindel** eintragen
 6.	Unter „Section Auswahl“ **"Settings in DB schreiben"** aufrufen
 
 Die an den „Grainfather Community Server“ gesendeten Daten können nun unter „Ausrüstung“ > „Fermentation Tracking“ > „iSpindel-Name“ eingesehen werden.
