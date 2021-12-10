@@ -15,7 +15,7 @@
 
 [**Batteriehalter 18650 SMD (kein Verpolungsschutz)**](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
 
-[**Akku Panasonic NCR18650B (FLAT ohne Schutz) 3,6V 3400mAh 45,6g **](https://www.reichelt.de/at/de/industriezelle-18650-3-6-v-3400-mah-ungeschuetzt-2er-pack-pan-18650-b-p261047.html?search=+NCR18650B&&r=1)
+[**Akku Panasonic NCR18650B (FLAT ohne Schutz) 3,6V 3400mAh 45,6g**](https://www.reichelt.de/at/de/industriezelle-18650-3-6-v-3400-mah-ungeschuetzt-2er-pack-pan-18650-b-p261047.html?search=+NCR18650B&&r=1)
 
 [**BAT43 Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
 - Alternative: [BAT85 Schottky Diode](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=bat85)
