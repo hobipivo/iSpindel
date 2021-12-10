@@ -39,5 +39,5 @@
 [**LED 3mm wasserklar Hyper Red THT (2000mcd / 1,8 - 2,2V / 20 - 30mA / RV 5V)**](https://www.reichelt.de/at/de/led-3-mm-bedrahtet-hyper-rot-2000-mcd-34--led-3-2000-rt-p156311.html?search=LED+3-2000+RT&&r=1)
 
 ## *Optionaler Reset-Taster:*
-[**OMR B3F-1002**]( https://www.reichelt.de/at/de/kurzhubtaster-b3f-serie-1-no-24-v-dc-50-ma-omr-b3f-1002-p258312.html?search=OMR+B3F-1002&&r=1)
+[**Taster OMR B3F-1002**]( https://www.reichelt.de/at/de/kurzhubtaster-b3f-serie-1-no-24-v-dc-50-ma-omr-b3f-1002-p258312.html?search=OMR+B3F-1002&&r=1)
  - Alternative: Verwendung von 2poliger Stiftleiste  
