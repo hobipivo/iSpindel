@@ -4,12 +4,12 @@
 
 [**PETling ~123 x d33 mm**](https://www.ebay.de/itm/133422810230?hash=item1f109e8476:g:xscAAOSwPYZU36py)
 
-[**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
+[**Wemos D1 mini ESP-8266 Micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
   - Alternative: [D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
-[**Lademodul TP4056 6pol. mit Micro USB**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
+[**Lademodul TP4056 6pol. mit Micro-USB**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
 
 [**DS18B20 Temperatursensor +/- 0,5°C Toleranz**](https://www.reichelt.de/at/de/digital-thermometer-1-wire--0-5-c-to-92-ds-18b20-p58169.html?&trstct=pos_0&nbc=1)
 
