@@ -40,4 +40,4 @@
 
 ## *Optionaler Reset-Taster:*
 [**Taster OMR B3F-1002**]( https://www.reichelt.de/at/de/kurzhubtaster-b3f-serie-1-no-24-v-dc-50-ma-omr-b3f-1002-p258312.html?search=OMR+B3F-1002&&r=1)
- - Alternative: [Verwendung von 2poliger Stiftleiste]
+ - Alternative: [Verwendung von 2poliger Stiftleiste]()
