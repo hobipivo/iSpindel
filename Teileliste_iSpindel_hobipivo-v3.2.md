@@ -1,6 +1,6 @@
 # Bauteileliste für iSpindel “hobipivo v3.2”:
  
- [**Platine "hobipivo PCB v3.2"**](https://hobbybrauer.de/forum/viewtopic.php?p=437660#p437660)
+ [**Platine "hobipivo PCB v3.2"**](https://hobbybrauer.de/forum/viewtopic.php?f=61&t=29611)
 
 [**PETling ~123 x d33 mm**](https://www.ebay.de/itm/133422810230?hash=item1f109e8476:g:xscAAOSwPYZU36py)
 
