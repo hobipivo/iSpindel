@@ -29,7 +29,7 @@
 
 [**4k7 Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-4-70-kohm-0207-0-6-w-1--metall-4-70k-p11784.html?&trstct=pos_0&nbc=1)
 
-[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/50-pcs-Position-Switch-rechts-Winkel/dp/B007QAJF4O/ref=pd_sbs_3/258-8204992-6770268?pd_rd_w=GQMP6&pf_rd_p=b1c388c3-48c2-4960-8532-fa8f1477aee9&pf_rd_r=XVTDM18EXMC9M5ZJ66PX&pd_rd_r=279863d4-159d-4059-a86e-b8b5d3dcb9d6&pd_rd_wg=iqLwO&pd_rd_i=B007QAJF4O&psc=1)
+[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 ## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
 [**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
