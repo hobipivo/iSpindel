@@ -8,13 +8,13 @@
 
 [**Kegland Pilling O-Ring**](https://de.aliexpress.com/item/1005003990060502.html?spm=a2g0o.detail.1000060.2.674f2e11IbvD5h&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=d01ec5de-adcd-4b7e-a240-33a9f65444ff&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Ad01ec5de-adcd-4b7e-a240-33a9f65444ff%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027659323039%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%211.19%21%21%21%21%21%400b89a67f16529432462358830e66e6%2112000027659323039%21rec&gatewayAdapt=glo2deu)
 
-[**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
-  - Alternative: [D1 mini Pro micro-USB](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
+[**Wemos D1 mini ESP-8266 Micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
+  - Alternative: [D1 mini Pro Micro-USB](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
 [**Lademodul TP4056 6pol. mit USB-C**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
-  - Alternative: [Lademodul mit Micro USB](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
+  - Alternative: [Lademodul mit Micro-USB](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
 
 [**DS18B20 Temperatursensor +/- 0,5°C Toleranz**](https://www.reichelt.de/at/de/digital-thermometer-1-wire--0-5-c-to-92-ds-18b20-p58169.html?&trstct=pos_0&nbc=1)
 
