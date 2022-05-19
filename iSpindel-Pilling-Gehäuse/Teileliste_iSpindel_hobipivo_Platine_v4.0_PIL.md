@@ -15,7 +15,7 @@
 [**Wemos D1 mini USB-C V4.0**](LOLIN D1 Mini V 4.0.0 WEMOS WIFI Internet der Dinge Board basierend ESP8266 4MB MicroPython Nodemcu Arduino Kompatibel|d1 mini|wemos d1 miniwemos d1 - AliExpress)
 
 [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
- - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse]( MAX40200AUK + T SOT 23 5 wärme austausch spannung controller marke neue original spot AMIP|Integrated Circuits| - AliExpress)  
+ - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
@@ -26,7 +26,7 @@
 
 [**Batteriehalter 18650 SMD (kein Verpolungsschutz)**](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
 
-[**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle
+[**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
 [**BAT43 Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
 - Alternative: [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
