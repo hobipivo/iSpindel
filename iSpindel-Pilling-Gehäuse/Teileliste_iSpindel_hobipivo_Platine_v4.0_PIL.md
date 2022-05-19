@@ -11,12 +11,6 @@
 [**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
   - Alternative: [D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
-## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
-[**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
-
-[**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
- - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
-
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
 [**Lademodul TP4056 6pol. mit USB-C**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
@@ -37,6 +31,12 @@
 
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/50-pcs-Position-Switch-rechts-Winkel/dp/B007QAJF4O/ref=pd_sbs_3/258-8204992-6770268?pd_rd_w=GQMP6&pf_rd_p=b1c388c3-48c2-4960-8532-fa8f1477aee9&pf_rd_r=XVTDM18EXMC9M5ZJ66PX&pd_rd_r=279863d4-159d-4059-a86e-b8b5d3dcb9d6&pd_rd_wg=iqLwO&pd_rd_i=B007QAJF4O&psc=1)
 
+## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
+[**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+
+[**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
+ - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+ - 
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
