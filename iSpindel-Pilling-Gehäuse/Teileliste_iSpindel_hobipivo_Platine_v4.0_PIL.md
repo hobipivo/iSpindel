@@ -3,7 +3,7 @@
 [**Platine "hobipivo PCB v4.0 PIL"**](https://hobbybrauer.de/forum/viewtopic.php?f=61&t=29611)
 
 [**Kegland Pilling Gehäuse**]()
- - [Kegland Pilling Gehäuse Unterrteil Transparent](https://de.aliexpress.com/item/1005003990280004.html?spm=a2g0o.order_list.0.0.21ef5c5fDmE5M0&gatewayAdapt=glo2deu)
+ - [Kegland Pilling Gehäuse Unterteil Transparent](https://de.aliexpress.com/item/1005003990280004.html?spm=a2g0o.order_list.0.0.21ef5c5fDmE5M0&gatewayAdapt=glo2deu)
 
  - [Kegland Pilling Gehäuse Oberteil Blau](https://de.aliexpress.com/item/1005003985433021.html?spm=a2g0o.detail.1000060.2.443c63e5VQbLMw&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=0f5afa85-f419-4c67-97d9-b8ea69a16919&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3A0f5afa85-f419-4c67-97d9-b8ea69a16919%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027644997453%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%212.38%21%21%21%21%21%40210312cc16529431482003138e81a1%2112000027644997453%21rec&gatewayAdapt=glo2deu)
 
