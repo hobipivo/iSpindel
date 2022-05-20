@@ -6,7 +6,7 @@ Die Verwendung in einem Drucktank ist wegen der Bauform und Verwendung von O-Rin
 
 Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)!
 
-![Bildtext](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.0-PIL_Front.jpg "Bildtitel")
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.0-PIL_Front.jpg "Bild")
 
 
 ![Bildtext](Linkzumbild.jpg "Bildtitel")
