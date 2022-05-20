@@ -23,7 +23,7 @@
 
 [**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
-[**BAT43 Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
+[**BAT43 Schottky Diode (D1)**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
 - Alternative: [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
 
 [**220k Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-220-kohm-0207-0-6-w-1--metall-220k-p11628.html?search=220k++Metallschichtwiderstand+0%2C6W&&r=1)
@@ -35,11 +35,11 @@
 ## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
 [**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
 
-[**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
- - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+[**Schottkydiode SB120 1A DO-41 Gehäuse (D2)**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
+ - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
  
 ## *Optionaler elektronischer Verpolungsschutz:*
-[**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
+[**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ) (Q1)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
  - Alternative: [IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irll024ntrpbf)
 
