@@ -9,7 +9,7 @@
 
  - [Kegland Pilling O-Ring (2 Stk.)](https://de.aliexpress.com/item/1005003990060502.html?spm=a2g0o.detail.1000060.2.674f2e11IbvD5h&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=d01ec5de-adcd-4b7e-a240-33a9f65444ff&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Ad01ec5de-adcd-4b7e-a240-33a9f65444ff%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027659323039%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%211.19%21%21%21%21%21%400b89a67f16529432462358830e66e6%2112000027659323039%21rec&gatewayAdapt=glo2deu)
 
-[**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+[**Wemos D1 mini v4.0 USB-C**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
 
 - [Schottkydiode SB120 1A DO-41 Gehäuse (D2)](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
  - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
