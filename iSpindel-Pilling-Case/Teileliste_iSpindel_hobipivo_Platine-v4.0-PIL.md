@@ -9,7 +9,11 @@
 
  - [Kegland Pilling O-Ring (2 Stk.)](https://de.aliexpress.com/item/1005003990060502.html?spm=a2g0o.detail.1000060.2.674f2e11IbvD5h&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=d01ec5de-adcd-4b7e-a240-33a9f65444ff&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Ad01ec5de-adcd-4b7e-a240-33a9f65444ff%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027659323039%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%211.19%21%21%21%21%21%400b89a67f16529432462358830e66e6%2112000027659323039%21rec&gatewayAdapt=glo2deu)
 
-[**Wemos D1 mini ESP-8266 Micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
+[**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+
+[**Schottkydiode SB120 1A DO-41 Gehäuse (D2)**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
+ - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
+ 
   - Alternative: [D1 mini Pro Micro-USB](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
@@ -32,12 +36,6 @@
 
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
-## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
-[**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
-
-[**Schottkydiode SB120 1A DO-41 Gehäuse (D2)**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
- - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
- 
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ) (Q1)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
