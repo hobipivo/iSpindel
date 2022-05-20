@@ -8,7 +8,7 @@ Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ o
 
 &nbsp;
 
-# iSpindel hobipivo v4.0 PIL:
+### iSpindel hobipivo v4.0 PIL:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL.jpg "Bild")
 
