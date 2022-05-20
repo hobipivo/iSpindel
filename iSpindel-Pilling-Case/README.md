@@ -4,4 +4,4 @@ Die "iSpindel" (Aufbau mit Standard-Modulen für DIY) in einem etwas teureren Ke
 
 Die Verwendung in einem Drucktank ist wegen der Bauform und Verwendung von O-Ringen ebenso möglich.
 
-Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro mit Micro-USB“ Modul verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)!
+Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)!
