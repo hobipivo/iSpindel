@@ -14,7 +14,7 @@
 - [Schottkydiode SB120 1A DO-41 Gehäuse (D2)](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
  - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
  
-  - Alternative: [D1 mini Pro Micro-USB](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
+  **Alternative: [D1 mini Pro Micro-USB**](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
 [**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
