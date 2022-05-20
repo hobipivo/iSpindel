@@ -4,4 +4,4 @@ Die "iSpindel" in einem etwas teureren Kegland Pilling Gehäuse (124mm Länge un
 
 Die Verwendung in einem Drucktank ist wegen der Bauform und Verwendung von O-Ringen ebenso möglich.
 
-Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0“ oder „Wemos D1 mini Pro“ Modul verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)!
+Bei DIY bitte aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro mit Micro-USB“ Modul verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)!
