@@ -10,6 +10,6 @@ Beim Pilling Gehäuse ist aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mi
 
 ### iSpindel hobipivo v4.0 PIL:
 
-![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL.jpg "Bild")
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-2000.jpg "Bild")
 
 
