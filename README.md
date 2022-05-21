@@ -10,8 +10,8 @@ nicht zu erwarten.
 
 ## Funktion:
 
-Die iSpindel (Elektronik Hydrometer) sendet die Daten (Neigungswinkel/Extraktgehalt, Temperatur und Akkuspannung) in einem einstellbaren Intervall über WLAN (nur 2,4GHz!); speichert selbst
-aber keine Daten. Als Datenempfänger kann ein konfigurierter, durchlaufender lokaler Server (z.B.: CraftBeerPi, RasPySpindel …) oder ein öffentlicher Server (z.B.: Ubidots STEM, Brewfather, Grainfather-APP ...) dienen. Vom Handy oder PC, kann dann per Browser, auf einen dieser Datensammler zugegriffen werden.
+Die iSpindel (Elektronik Hydrometer) sendet die Daten (Neigungswinkel/Extraktgehalt, Temperatur und Akkuspannung) in einem einstellbaren Intervall über WLAN (mit 2,4GHz!); speichert selbst
+aber keine Daten. Als Datenempfänger kann ein konfigurierter, durchlaufender lokaler Server (z.B.: CraftBeerPi, RasPySpindel …) oder ein öffentlicher Server (z.B.: Ubidots STEM, BierBot Bricks, Brewfather, Grainfather-APP ...) dienen. Vom Handy oder PC, kann dann per Browser, auf einen dieser Datensammler zugegriffen werden.
 
 ## Betrieb:
 
