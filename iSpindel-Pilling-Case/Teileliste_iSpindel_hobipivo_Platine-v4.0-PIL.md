@@ -14,19 +14,19 @@
  
  [Alternative: **D1 mini Pro v3.0 Micro-USB**](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
-[**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
+[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
 
 [**Lademodul TP4056 6pol. mit USB-C**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
   - Alternative: [Lademodul mit Micro-USB](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
 
-[**DS18B20 Temperatursensor +/- 0,5°C Toleranz**](https://www.reichelt.de/at/de/digital-thermometer-1-wire--0-5-c-to-92-ds-18b20-p58169.html?&trstct=pos_0&nbc=1)
+[**DS18B20 Temperatursensor** +/- 0,5°C Toleranz](https://www.reichelt.de/at/de/digital-thermometer-1-wire--0-5-c-to-92-ds-18b20-p58169.html?&trstct=pos_0&nbc=1)
 
 [**Batteriehalter 18650 SMD** (kein Verpolungsschutz)](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
 
-[**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
+[**Akku Molicel INR18650-M35A** (FLAT ohne Schutz) 3,6V 3500mAh 48g](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
 [**BAT43 Schottky Diode (D1)**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
-- Alternative: [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
+- Alternative: [**Schottkydiode SB120** 1A DO-41 Gehäuse](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
 
 [**220k Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-220-kohm-0207-0-6-w-1--metall-220k-p11628.html?search=220k++Metallschichtwiderstand+0%2C6W&&r=1)
 
@@ -35,13 +35,13 @@
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
-[**N-LogL MOSFET IRLR8726PbF (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ) (Q1)**](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
+[**N-LogL MOSFET IRLR8726PbF** (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ) (Q1)](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
  - Alternative: [IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irll024ntrpbf)
 
 ## *Optionale elektronische Verpolungswarnung -anzeige:*
 [**100-150 Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-100-ohm-0207-0-6-w-1--metall-100-p11457.html?search=100R+Metallschichtwiderstand+0%2C6W&&r=1)
 
-[**LED 3mm wasserklar Hyper Red THT (2000mcd / 1,8 - 2,2V / 20 - 30mA / RV 5V)**](https://www.reichelt.de/at/de/led-3-mm-bedrahtet-hyper-rot-2000-mcd-34--led-3-2000-rt-p156311.html?search=LED+3-2000+RT&&r=1)
+[**LED 3mm wasserklar Hyper Red THT** (2000mcd / 1,8 - 2,2V / 20 - 30mA / RV 5V)](https://www.reichelt.de/at/de/led-3-mm-bedrahtet-hyper-rot-2000-mcd-34--led-3-2000-rt-p156311.html?search=LED+3-2000+RT&&r=1)
 
 
