@@ -25,7 +25,7 @@
 
 [**Akku Molicel INR18650-M35A** (FLAT ohne Schutz) 3,6V 3500mAh 48g](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
-[**BAT43 Schottky Diode (D1)**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
+[**BAT43 Schottky Diode** (D1)](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
 - Alternative: [**Schottkydiode SB120** 1A DO-41 Gehäuse](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
 
 [**220k Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-220-kohm-0207-0-6-w-1--metall-220k-p11628.html?search=220k++Metallschichtwiderstand+0%2C6W&&r=1)
