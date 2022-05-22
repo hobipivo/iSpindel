@@ -21,7 +21,7 @@
 
 [**DS18B20 Temperatursensor +/- 0,5°C Toleranz**](https://www.reichelt.de/at/de/digital-thermometer-1-wire--0-5-c-to-92-ds-18b20-p58169.html?&trstct=pos_0&nbc=1)
 
-[**Batteriehalter 18650 SMD (kein Verpolungsschutz)**](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
+[**Batteriehalter 18650 SMD** (kein Verpolungsschutz)](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
 
 [**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
