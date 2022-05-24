@@ -21,18 +21,16 @@ Ich selbst nutze den KleinPC „Raspberry“, auf dem ein vom Hobbybrauer- Forum
 Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlosen "Grainfather Connect Server" sendet und am Handy die "Grainfather Connect Mobile App" installiert wird. [Link zu GF-APP Integration](https://github.com/hobipivo/iSpindel/blob/main/iSpindel_GF-APP_Integration.md)
 
 &nbsp;
-
 ### iSpindel hobipivo PCB v3.2 Front:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v3.2_Front-500.jpg "Bild")
 
 &nbsp;
-
 ### iSpindel hobipivo PCB v3.2 Back:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v3.2_Back-500.jpg "Bild")
 
-
+&nbsp;
 
 ## Zusätzliche Informationen:
 
