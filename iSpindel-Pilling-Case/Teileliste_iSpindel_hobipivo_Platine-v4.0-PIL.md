@@ -35,9 +35,9 @@
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
-[**N-LogL MOSFET IRLR8726PbF** (IRLR8726TRPbF) TO-252AA SMD Gehäuse (5,8mΩ) (Q1)](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
+[**N-LogL MOSFET IRLL024NTRPbF** (IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ) (Q1)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irll024ntrpbf)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
- - Alternative: [IRLL024NTRPbF im SOT-223 SMD Gehäuse (65mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irll024ntrpbf)
+ - Alternative: [IRLR8726TRPbF im TO-252AA SMD Gehäuse (5,8mΩ)](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
 
 ## *Optionale elektronische Verpolungswarnung -anzeige:*
 [**100-150 Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-100-ohm-0207-0-6-w-1--metall-100-p11457.html?search=100R+Metallschichtwiderstand+0%2C6W&&r=1)
