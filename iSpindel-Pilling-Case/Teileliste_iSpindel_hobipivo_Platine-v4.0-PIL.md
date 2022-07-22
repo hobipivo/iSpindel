@@ -35,7 +35,7 @@
 [**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
-[**N-LogL MOSFET IRLL024NPbF** (IRLL024NPbF im SOT-223 SMD Gehäuse (65mΩ) (Q1)](https://www.reichelt.at/at/de/mosfet-n-logl-55v-4-4a-0-065r-sot223-irll024npbf-p254819.html?&trstct=pos_1&nbc=1)
+[**N-LogL MOSFET IRLL024NPbF** im SOT-223 SMD Gehäuse (65mΩ) (Q1)](https://www.reichelt.at/at/de/mosfet-n-logl-55v-4-4a-0-065r-sot223-irll024npbf-p254819.html?&trstct=pos_1&nbc=1)
  - Alternative: [IRLR8743PbF im TO-252AA SMD Gehäuse (3,1mΩ)](https://www.reichelt.at/at/de/index.html?ACTION=446&LA=446&nbc=1&q=irlr8743pbf)  
  - Alternative: [IRLR8726TRPbF im TO-252AA SMD Gehäuse (5,8mΩ)](https://www.reichelt.de/at/de/mosfet-n-logl-30v-86a-0-0058r-to252aa-irlr8726pbf-p254838.html?search=IRLR8726PbF&&r=1)
 
