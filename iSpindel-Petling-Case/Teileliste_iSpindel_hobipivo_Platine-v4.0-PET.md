@@ -22,7 +22,7 @@
 
 [**Batteriehalter 18650 SMD (kein Verpolungsschutz)**](https://www.reichelt.de/at/de/batteriehalter-fuer-1-18650-keystone-1042-p213369.html?&trstct=pos_1&nbc=1)
 
-[**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle
+[**Akku Molicel INR18650-M35A (FLAT ohne Schutz) 3,6V 3500mAh 48g**](https://www.akkuparts24.de/Molicel-INR18650-M35A-36V-3500mAh-Li-Ion-AkkuZelle)
 
 [**BAT43 Schottky Diode**](https://www.reichelt.de/at/de/schottkydiode-30-v-0-2-a-do-35-bat-43-p4851.html?&trstct=pos_0&nbc=1)
 - Alternative: [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
@@ -46,4 +46,4 @@
 
 ## *Optionaler Reset-Taster:*
 [**Taster OMR B3F-1002**]( https://www.reichelt.de/at/de/kurzhubtaster-b3f-serie-1-no-24-v-dc-50-ma-omr-b3f-1002-p258312.html?search=OMR+B3F-1002&&r=1)
- - Alternative: [Verwendung von 2poliger Stiftleiste ]( iSpindel/Teileliste_iSpindel_hobipivo-v3.2.md at main · hobipivo/iSpindel (github.com)) 
+ - Alternative: [Verwendung von 2poliger Stiftleiste](iSpindel/Teileliste_iSpindel_hobipivo-v3.2.md at main · hobipivo/iSpindel (github.com)) 
