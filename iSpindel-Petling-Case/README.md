@@ -16,9 +16,9 @@ Die "iSpindel" (Aufbau mit Standard-Modulen für DIY) im Petling Gehäuse (129,5
 
 &nbsp;
 
-### iSpindel hobipivo v4.0 PIL:
+### iSpindel hobipivo v4.0 PET:
 
-![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-500.jpg "Bild")
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PET-500.jpg "Bild")
 
 
 
