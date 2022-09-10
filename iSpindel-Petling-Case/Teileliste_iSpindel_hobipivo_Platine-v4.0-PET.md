@@ -8,7 +8,7 @@
 [**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
   - Alternative: [D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
-## *Optionale Verwendung von Wemos D1 mini mit USB-C V4.0*
+## *Alternative Verwendung von Wemos D1 mini mit USB-C V4.0*
 [**Wemos D1 mini USB-C V4.0**](LOLIN D1 Mini V 4.0.0 WEMOS WIFI Internet der Dinge Board basierend ESP8266 4MB MicroPython Nodemcu Arduino Kompatibel|d1 mini|wemos d1 miniwemos d1 - AliExpress)
 [**Schottkydiode SB120 1A DO-41 Gehäuse**](https://www.reichelt.de/schottkydiode-20-v-1-a-do-41-sb-120-p16010.html?CCOUNTRY=445&LANGUAGE=de&trstct=pos_0&nbc=1&&r=1)
  - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse]( MAX40200AUK + T SOT 23 5 wärme austausch spannung controller marke neue original spot AMIP|Integrated Circuits| - AliExpress)  
