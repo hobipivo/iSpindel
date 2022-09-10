@@ -41,7 +41,7 @@
 
 ## *Optionaler Reset-Taster:*
 [**Taster OMR B3F-1002**]( https://www.reichelt.de/at/de/kurzhubtaster-b3f-serie-1-no-24-v-dc-50-ma-omr-b3f-1002-p258312.html?search=OMR+B3F-1002&&r=1)
- - Alternative: [Verwendung von 2poliger Stiftleiste]
+ - Alternative: Verwendung von 2poliger Stiftleiste
 
 ## *Alternative Verwendung von Wemos D1 mini mit USB-C V4.0*
 [**Wemos D1 mini USB-C V4.0**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
