@@ -6,7 +6,7 @@ Die Verwendung in einem Drucktank ist aufgrund der stabilen Bauform und Verwendu
 
 Beim Pilling Gehäuse ist aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul zu verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)! 
 
-Die "iSpindel hobipivo PCB v4.0" kann mit einem Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit dem Ladestromschutz ausgestattet werden.
+Die "iSpindel hobipivo v4.0" kann mit einem Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit dem Ladestromschutz ausgestattet werden.
 
 &nbsp;
 
