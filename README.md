@@ -20,6 +20,10 @@ Ich selbst nutze den KleinPC „Raspberry“, auf dem ein vom Hobbybrauer- Forum
  
 Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlosen "Grainfather Connect Server" sendet und am Handy die "Grainfather Connect Mobile App" installiert wird. [Link zu GF-APP Integration](https://github.com/hobipivo/iSpindel/blob/main/iSpindel_GF-APP_Integration.md)
 
+## hobipivo Varianten:
+
+Die hobipivo iSpindel gibt es in zwei Ausführungen, jeweils mit einem Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit dem Ladestromschutz.
+ 
 &nbsp;
 ### iSpindel hobipivo v4.0 PET:
 
