@@ -57,4 +57,3 @@ https://braumagazin.de/article/ispindel-die-visualisierung-der-daten/
 
 Allzeit gut Sud
 
-Christian
