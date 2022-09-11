@@ -22,7 +22,7 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 
 ## hobipivo Varianten:
 
-Die hobipivo iSpindel gibt es in zwei Gehäuseausführungen. Diese sind mit einem Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit dem Ladestromschutz ausgestattet.
+Die hobipivo iSpindel gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit dem Ladestromschutz ausgestattet.
  
 &nbsp;
 ### iSpindel hobipivo v4.0 PET:
