@@ -59,5 +59,6 @@ https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-h
 iSpindel Einbindung in Ubidots (Deutsch):
 https://braumagazin.de/article/ispindel-die-visualisierung-der-daten/
 
+
 Allzeit gut Sud
 
