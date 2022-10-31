@@ -4,7 +4,7 @@ Die "iSpindel" (Aufbau mit Standard-Modulen für DIY) in einem etwas teureren, s
 
 Die Verwendung in einem Drucktank ist aufgrund der stabilen Bauform und Verwendung von O-Ringen ebenso möglich.
 
-Beim Pilling Gehäuse ist aus Platzgründen das „Lolin (Wemos) D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul zu verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)! 
+Beim Pilling Gehäuse ist aus Platzgründen das „D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul zu verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)! 
 
 Die "iSpindel hobipivo v4.0" kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet werden.
 
