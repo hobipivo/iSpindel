@@ -39,8 +39,9 @@ Bei der **iSpindel v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Ladem
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-500.jpg "Bild")
 
 &nbsp;
-### Bezugsquelle:
-Fertige hobipivo iSpindeln: https://hobbybrauer.de/forum/viewtopic.php?t=25855#p480504
+### Bezugsquellen:
+
+hobipivo iSpindeln: https://hobbybrauer.de/forum/viewtopic.php?t=25855#p480504
 
 hobipivo Platinen: https://hobbybrauer.de/forum/viewtopic.php?p=505798#p505798
 
