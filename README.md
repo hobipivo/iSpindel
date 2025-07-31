@@ -22,7 +22,7 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 
 ## hobipivo Varianten:
 
-Die hobipivo iSpindel gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet.
+Die **hobipivo iSpindel v4.x** gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet.
 
 Bei der **iSpindel v4.1 PET** könnnen optional die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Vorraussetzung ist der Einsatz der GravityMon Firmware.
 
