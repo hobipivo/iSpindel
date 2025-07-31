@@ -1,8 +1,8 @@
 ## iSpindel im PET Gehäuse
 
-Die "iSpindel hobipivo v4.0" (Aufbau mit Standard-Modulen für DIY) im Petling Gehäuse (129,5mm Länge und 33,4mm Durchmesser) ist mit dem „Wemos D1 mini v3.0 mit Micro-USB“ oder mit dem aktuellen „D1 mini v4.0 mit USB-C“ Modul realisierbar.
+Die "iSpindel hobipivo v4.0 PET" (Aufbau mit Standard-Modulen für DIY) im Petling Gehäuse (129,5mm Länge und 33,4mm Durchmesser) ist mit dem „Wemos D1 mini v3.0 mit Micro-USB“ oder mit dem aktuellen „D1 mini v4.0 mit USB-C“ Modul realisierbar.
 
-Die "iSpindel hobipivo v4.0" kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet werden.
+Die "iSpindel hobipivo v4.x PET" kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules oder ESP32 Modulen mit einer Schutzdiode ausgestattet werden.
 
 &nbsp;
 
