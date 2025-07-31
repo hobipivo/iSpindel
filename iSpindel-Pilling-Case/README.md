@@ -25,7 +25,7 @@ Bei der **iSpindel hobipivo v4.1 PIL** mit dem „ESP8266 v4.0 USB-C Modul“, k
 
 &nbsp;
 
-### iSpindel hobipivo v4.0 PIL:
+### iSpindel hobipivo v4.0 / v4.1 PIL:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-500.jpg "Bild")
 
