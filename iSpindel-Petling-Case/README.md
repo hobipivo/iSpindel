@@ -4,7 +4,7 @@ Die **iSpindel hobipivo v4.0 PET** (Aufbau mit Standard-Modulen für DIY) im Pet
 
 Die **iSpindel hobipivo v4.x PET** kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules oder ESP32 Modulen mit einer Schutzdiode ausgestattet werden.
 
-Bei der **iSpindel hobipivo v4.1 PET** können alternative die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Vorrausetzung ist der Einsatz der GravityMon Firmware.
+Bei der **iSpindel hobipivo v4.1 PET** können alternative die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Voraussetzung ist der Einsatz der GravityMon Firmware.
 
 &nbsp;
 
