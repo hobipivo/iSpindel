@@ -22,5 +22,10 @@ Die "iSpindel hobipivo v4.0" kann mit einem elektronischen Verpolungsschutz und 
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PET-500.jpg "Bild")
 
+&nbsp;
+### Bezugsquellen:
 
+hobipivo iSpindeln: https://hobbybrauer.de/forum/viewtopic.php?t=25855#p480504
+
+hobipivo Platinen: https://hobbybrauer.de/forum/viewtopic.php?p=505798#p505798
 
