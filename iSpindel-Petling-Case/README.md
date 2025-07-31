@@ -6,6 +6,19 @@ Die **iSpindel hobipivo v4.x PET** kann mit einem elektronischen Verpolungsschut
 
 Bei der **iSpindel hobipivo v4.1 PET** können alternativ die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Voraussetzung ist der Einsatz der GravityMon Firmware.
 
+
+&nbsp;
+
+### iSpindel hobipivo PCB v4.1 PET Front:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.1-PET_Front-500.jpg "Bild")
+
+&nbsp;
+
+### iSpindel hobipivo PCB v4.1 PET Back:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.1-PET_Back-500.jpg "Bild")
+
 &nbsp;
 
 ### iSpindel hobipivo PCB v4.0 PET Front:
