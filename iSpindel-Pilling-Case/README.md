@@ -10,7 +10,19 @@ Die iSpindel hobipivo v4.x PIL kann mit einem elektronischen Verpolungsschutz un
 
 Bei der **iSpindel hobipivo v4.1 PIL** mit dem „ESP8266 v4.0 USB-C Modul“, kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses.
 
- 
+
+ &nbsp;
+
+### iSpindel hobipivo PCB v4.1 PIL Front:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.1-PIL_Front-500.jpg "Bild")
+
+&nbsp;
+
+### iSpindel hobipivo PCB v4.1 PIL Back:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.1-PIL_Back-500.jpg "Bild")
+
 &nbsp;
 
 ### iSpindel hobipivo PCB v4.0 PIL Front:
