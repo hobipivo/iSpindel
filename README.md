@@ -24,7 +24,7 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 
 Die hobipivo iSpindel gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet.
 
-Bei der iSpindel v4.1 PET könnnen optional die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden.
+Bei der iSpindel v4.1 PET könnnen optional die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Vorraussetzung ist der Einsatz der GravityMon Firmware.
 
 Bei der iSpindel v4.1 PIL kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akku) und ein Reed-Schalter verbaut werden. Damit erspart man sich das Öffnen des Gehäuses. 
  
@@ -62,6 +62,10 @@ https://help.ubidots.com/en/articles/3979278-connect-the-ispindel-low-cost-diy-h
 
 iSpindel Einbindung in Ubidots (Deutsch):
 https://braumagazin.de/article/ispindel-die-visualisierung-der-daten/
+
+iSpindel GravityMon Firmware:
+https://gravitymon.com/project-gravitymon.html
+https://github.com/mp-se/gravitymon
 
 
 Allzeit gut Sud
