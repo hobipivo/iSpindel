@@ -23,14 +23,16 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 ## hobipivo Varianten:
 
 Die hobipivo iSpindel gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet.
+Bei der iSpindel v4.1 PET könnnen optional die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden.
+Bei der iSpindel v4.1 PIL kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akku) und ein Reed-Schalter verbaut werden. Damit erspart man sich das Öffnen des Gehäuses. 
  
 &nbsp;
-### iSpindel hobipivo v4.0 PET:
+### iSpindel hobipivo v4.0 / v4.1 PET:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PET-500.jpg "Bild")
 
 &nbsp;
-### iSpindel hobipivo v4.0 PIL:
+### iSpindel hobipivo v4.0 / v4.1 PIL:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-500.jpg "Bild")
 
