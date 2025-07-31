@@ -24,9 +24,9 @@ Getestet habe ich auch die Variante, wo die iSpindel die Daten an den kostenlose
 
 Die **hobipivo iSpindel v4.x** gibt es in zwei Gehäuseausführungen. Diese sind mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet.
 
-Bei der **iSpindel v4.1 PET** könnnen alternative die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Vorraussetzung ist der Einsatz der GravityMon Firmware.
+Bei der **iSpindel v4.1 PET** können alternative die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Vorrausetzung ist der Einsatz der GravityMon Firmware.
 
-Bei der **iSpindel v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akku) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses. 
+Bei der **iSpindel v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses. 
  
 &nbsp;
 ### iSpindel hobipivo v4.0 / v4.1 PET:
