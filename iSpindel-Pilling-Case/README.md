@@ -8,7 +8,7 @@ Beim Pilling Gehäuse ist aus Platzgründen das „D1 mini v4.0 mit USB-C“ ode
 
 Die iSpindel hobipivo v4.x PIL kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet werden.
 
-Bei der **iSpindel hobipivo v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses.
+Bei der **iSpindel hobipivo v4.1 PIL** mit dem „ESP8266 v4.0 USB-C Modul“, kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses.
 
  
 &nbsp;
