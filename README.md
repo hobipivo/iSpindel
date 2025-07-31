@@ -64,10 +64,10 @@ iSpindel Einbindung in Ubidots (Deutsch):
 https://braumagazin.de/article/ispindel-die-visualisierung-der-daten/
 
 iSpindel GravityMon Firmware:
-https://gravitymon.com/project-gravitymon.html - 
+https://gravitymon.com/project-gravitymon.html -- 
 https://github.com/mp-se/gravitymon
 
-
+&nbsp;
 
 Allzeit gut Sud
 
