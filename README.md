@@ -41,9 +41,9 @@ Bei der **iSpindel hobipivo v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktl
 &nbsp;
 ### Bezugsquellen:
 
-hobipivo iSpindeln: https://hobbybrauer.de/forum/viewtopic.php?t=25855#p480504
+hobipivo iSpindeln: https://hobbybrauer.de/forum/viewtopic.php?t=25855#p547647
 
-hobipivo Platinen: https://hobbybrauer.de/forum/viewtopic.php?p=505798#p505798
+hobipivo Platinen: https://hobbybrauer.de/forum/viewtopic.php?p=547648#p547648
 
 &nbsp;
 
