@@ -13,7 +13,7 @@ Die Geräte-Setup Anweisungen ausführen:
 4.	Ihr WiFi Netzwerk (SSID-Namen) auswählen oder eintragen
 5.	Password des WiFi Netzwerks eintragen
 6.	Namen für die iSpindel vergeben
-7.	Interval **900** sec. oder höher eintragen
+7.	Interval **910** sec. oder höher eintragen
 8.	Bei „Unit of temperature“ Celsius auswählen
 9.	Bei “Service Type” **http** auswählen
 10.	 Wenn die Server Address und Port Felder nicht angezeigt werden, ändern Sie erneut den „Service Type“ 
