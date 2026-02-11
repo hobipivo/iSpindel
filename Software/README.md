@@ -27,6 +27,7 @@ Downloads: https://github.com/mp-se/gravitymon/releases
 
 GravityMon ist eine Ersatz-Firmware für die iSpindel und verwendet die gleiche Hardware-Konfiguration und ist 100% kompatibel.
 Die Firmware unterstützt neben dem ESP8266 Modulen auch eine iSpindel Konfiguration mit ESP32 Modulen, die Pin-kompatibel mit esp8266 mini sind (ESP32-C3 mini, ESP32-S2 mini und ESP32-S3 mini). Die modernere Hardware ermöglicht eine bessere Unterstützung für SSL und andere speicherintensive Funktionen und bietet auch eine Bluetooth-Unterstützung. Weiters werden zum Gyro MPU6050 auch noch das MPU6500 und ICM42670 Modul unterstützt.
+Ab Version 2.4.0 werden auch die ESP32 C3 Zero und ESP32 C3 Supermini Module unterstützt.
 
 
 
