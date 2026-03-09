@@ -6,6 +6,7 @@
  - [Kegland Pilling Gehäuse Unterteil Transparent](https://de.aliexpress.com/item/1005003990280004.html?spm=a2g0o.order_list.0.0.21ef5c5fDmE5M0&gatewayAdapt=glo2deu)
  - [Kegland Pilling Gehäuse Oberteil Blau](https://de.aliexpress.com/item/1005003985433021.html?spm=a2g0o.detail.1000060.2.443c63e5VQbLMw&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=0f5afa85-f419-4c67-97d9-b8ea69a16919&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3A0f5afa85-f419-4c67-97d9-b8ea69a16919%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027644997453%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%212.38%21%21%21%21%21%40210312cc16529431482003138e81a1%2112000027644997453%21rec&gatewayAdapt=glo2deu)
  - [Kegland Pilling O-Ring (2 Stk.)](https://de.aliexpress.com/item/1005003990060502.html?spm=a2g0o.detail.1000060.2.674f2e11IbvD5h&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=d01ec5de-adcd-4b7e-a240-33a9f65444ff&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Ad01ec5de-adcd-4b7e-a240-33a9f65444ff%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027659323039%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%211.19%21%21%21%21%21%400b89a67f16529432462358830e66e6%2112000027659323039%21rec&gatewayAdapt=glo2deu)
+
 [**Tenstar ESP32 C3 Supermini Modul**](https://de.aliexpress.com/item/1005005967641936.html?spm=a2g0o.productlist.main.3.33b43c3fbdzHnY&algo_pvid=32f00c20-9735-46e7-b016-8d162a0f068e&algo_exp_id=32f00c20-9735-46e7-b016-8d162a0f068e-2&pdp_ext_f=%7B%22order%22%3A%2213241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%219.73%210.99%21%21%2175.78%217.72%21%402103856417730805729083774ef9e4%2112000035107991749%21sea%21AT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Acf9ff614%3Bm03_new_user%3A-29895%3BpisId%3A5000000197857069&curPageLogUid=bWhDqEn3ci2D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005967641936%7C_p_origin_prod%3A)
 
 [**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
@@ -40,6 +41,7 @@
 
 ## *Optionaler „Qi“ induktiver Ladeempfänger:*
 [**Kegland Qi Charging Kit**](https://kegland.eu/products/barebones-wireless-charging-kit-for-rapt-pill-hydrometer-coil-and-weights-only?_pos=8&_sid=d151eedc5&_ss=r)
+
 [**Schiebeschalter ESP1010 stehend Print**](https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178?nbc=1)
   - Alternative: [2pol. Stiftleiste + Jumper]( https://www.reichelt.de/at/de/shop/produkt/kurzschlussbruecke_schwarz_rm_2_54-9017)
 
