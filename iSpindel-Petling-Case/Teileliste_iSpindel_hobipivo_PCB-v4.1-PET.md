@@ -3,7 +3,7 @@
 Bei Verwendung von ESP32 Modulen ist der Einbau des 220kOhm „R4“ Widerstandes und die Installation der „**GravityMon**“ Firmware notwendig!!
 
 
-[**Platine "hobipivo PCB v4.1 PET"**](https://hobbybrauer.de/forum/viewtopic.php?t=31012)
+[**Platine "hobipivo PCB v4.1 PET"**](https://hobbybrauer.de/forum/viewtopic.php?t=32827#p547648)
 
 [**PETling Innen 129,5 x Ø33,4 mm**](https://www.uniquegeocaches.com/index.php?route=product/product&path=20_26&product_id=52)
   - Alternative: [PETling Innen 136 x Ø33,4 mm](https://www.geocachingshop.nl/de/petling-xxl-cache-container)
@@ -11,7 +11,7 @@ Bei Verwendung von ESP32 Modulen ist der Einbau des 220kOhm „R4“ Widerstande
 [**Wemos D1 mini ESP-8266 micro-USB V3.0**](https://www.amazon.de/dp/B08BTYHJM1/)
   - Alternative: [D1 mini Pro](https://www.reichelt.de/at/de/d1-mini-pro-esp8266-cp2104-d1-mini-pro-p266066.html?&trstct=pos_2&nbc=1)
 
-[**GY-521 MPU-6050 3-Achsen-Gyroskop und Beschleunigungssensor**](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
+[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_beschleunigung_gyroskop_3-achsen_mpu-6050-282539?search=MPU6050&)
 
 [**Lademodul mit Micro USB**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
   - Alternative: [Lademodul TP4056 6pol. mit USB-C](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
