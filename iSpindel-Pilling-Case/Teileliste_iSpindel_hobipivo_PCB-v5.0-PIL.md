@@ -42,12 +42,12 @@
 ## *Optionaler „Qi“ induktiver Ladeempfänger:*
 [**Kegland Qi Charging Kit**](https://kegland.eu/products/barebones-wireless-charging-kit-for-rapt-pill-hydrometer-coil-and-weights-only?_pos=8&_sid=d151eedc5&_ss=r)
 
-[**Schiebeschalter ESP1010 stehend Print**](https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178?nbc=1)
+[**Schiebeschalter ESP1010 stehend Print** (SW2)](https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178?nbc=1)
   - Alternative: [2pol. Stiftleiste + Jumper]( https://www.reichelt.de/at/de/shop/produkt/kurzschlussbruecke_schwarz_rm_2_54-9017)
 
 
 ## *Optionale Force-Config Funktion:*
-[**Schiebeschalter ESP1010 stehend Print**](https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178?nbc=1)
+[**Schiebeschalter ESP1010 stehend Print** (SW3)](https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178?nbc=1)
   - Alternative: [2pol. Stiftleiste + Jumper]( https://www.reichelt.de/at/de/shop/produkt/kurzschlussbruecke_schwarz_rm_2_54-9017)
 
 
