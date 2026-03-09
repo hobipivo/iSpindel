@@ -1,6 +1,6 @@
 # Bauteileliste für iSpindel “hobipivo v5.0 PIL”:
  
-[**Platine "hobipivo PCB v5.0 PIL"**](https://hobbybrauer.de/forum/viewtopic.php?t=31012)
+[**Platine "hobipivo PCB v5.0 PIL"**](https://hobbybrauer.de/forum/viewtopic.php?t=32827#p547648)
 
 [**Kegland Pilling Gehäuse**]()
  - [Kegland Pilling Gehäuse Unterteil Transparent](https://kegland.eu/products/rapt-pill-clear-housing?variant=49148928360724)
