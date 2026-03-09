@@ -33,7 +33,7 @@
 
 [**4k7 Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-4-70-kohm-0207-0-6-w-1--metall-4-70k-p11784.html?&trstct=pos_0&nbc=1)
 
-[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/TUNOTYUE-Schiebeschalter-Kippschalter-Elektronische-Spielzeug-Beleuchtungsk%C3%B6rper/dp/B0FCFJMYLV/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DRMRA3KGEUXL&dib=eyJ2IjoiMSJ9.2sT7yP77KqfJle9eE7l1G1a-B-oKZKcJ40kUuJ-mIRrJ2Oh-EFoeMZvYzmbkJwPxK9C0-lxTp-Trfuf24aFNXZxz1U1YWgWI4LMDp4v4dC53H1tSE-UByGNc-spO2d0QPjEnStMuCDuQbSUlABkrN7qErSytH_oy2EOrVCT_Mhb0GbpkVSllvHU0WK-mV9vabofF48nwOWDZbjxWCQdTKFPZrmFprDOAxjsBNhOTJ6wQvOOwdh-CreWI4YWgtRky6iw-_DsYRWY6eTEn4MUHLSNkw-YcbWM8DKmgIOk6WVk.cxbZqWCZI0PDH1eJvidklrxHJQyVy1l7D9SXxhWNLNQ&dib_tag=se&keywords=SK12D07VG3&qid=1773085837&sprefix=sk12d07vg3%2Caps%2C304&sr=8-2&th=1)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLL024NPbF** im SOT-223 SMD Gehäuse (65mΩ) (Q1)](https://www.reichelt.at/at/de/mosfet-n-logl-55v-4-4a-0-065r-sot223-irll024npbf-p254819.html?&trstct=pos_1&nbc=1)
