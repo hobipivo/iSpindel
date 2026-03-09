@@ -9,7 +9,7 @@
 
 [**Tenstar ESP32 C3 Supermini Modul**](https://de.aliexpress.com/item/1005005967641936.html?spm=a2g0o.productlist.main.3.33b43c3fbdzHnY&algo_pvid=32f00c20-9735-46e7-b016-8d162a0f068e&algo_exp_id=32f00c20-9735-46e7-b016-8d162a0f068e-2&pdp_ext_f=%7B%22order%22%3A%2213241%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%219.73%210.99%21%21%2175.78%217.72%21%402103856417730805729083774ef9e4%2112000035107991749%21sea%21AT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Acf9ff614%3Bm03_new_user%3A-29895%3BpisId%3A5000000197857069&curPageLogUid=bWhDqEn3ci2D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005967641936%7C_p_origin_prod%3A)
 
-[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
+[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_beschleunigung_gyroskop_3-achsen_mpu-6050-282539?search=MPU6050&)
 
 [**Lademodul TP4056 6pol. mit USB-C**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
   - Alternative: [Lademodul mit Micro-USB](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
