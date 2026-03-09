@@ -3,9 +3,9 @@
 [**Platine "hobipivo PCB v4.1 PIL"**](https://hobbybrauer.de/forum/viewtopic.php?t=31012)
 
 [**Kegland Pilling Gehäuse**]()
- - [Kegland Pilling Gehäuse Unterteil Transparent](https://de.aliexpress.com/item/1005003990280004.html?spm=a2g0o.order_list.0.0.21ef5c5fDmE5M0&gatewayAdapt=glo2deu)
- - [Kegland Pilling Gehäuse Oberteil Blau](https://de.aliexpress.com/item/1005003985433021.html?spm=a2g0o.detail.1000060.2.443c63e5VQbLMw&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=0f5afa85-f419-4c67-97d9-b8ea69a16919&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3A0f5afa85-f419-4c67-97d9-b8ea69a16919%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027644997453%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%212.38%21%21%21%21%21%40210312cc16529431482003138e81a1%2112000027644997453%21rec&gatewayAdapt=glo2deu)
- - [Kegland Pilling O-Ring (2 Stk.)](https://de.aliexpress.com/item/1005003990060502.html?spm=a2g0o.detail.1000060.2.674f2e11IbvD5h&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=d01ec5de-adcd-4b7e-a240-33a9f65444ff&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Ad01ec5de-adcd-4b7e-a240-33a9f65444ff%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22sku_id%22%3A%2212000027659323039%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%211.19%21%21%21%21%21%400b89a67f16529432462358830e66e6%2112000027659323039%21rec&gatewayAdapt=glo2deu)
+ - [Kegland Pilling Gehäuse Unterteil Transparent](https://kegland.eu/products/rapt-pill-clear-housing?variant=49148928360724)
+ - [Kegland Pilling Gehäuse Oberteil Blau](https://kegland.eu/products/rapt-pill-blue-housing?variant=49148962537748)
+ - [Kegland Pilling O-Ring (2 Stk.)](https://kegland.eu/products/silicon-o-ring-33mm-x1-8mm-rapt-pill?variant=49239968383252)
 
 [**Lolin (Wemos) D1 mini v4.0 USB-C**](https://de.aliexpress.com/item/32529101036.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
 
@@ -13,7 +13,7 @@
  - Alternative: [Ideale-Diode MAX40200AUK SMD SOT53 Gehäuse (Q2)](https://de.aliexpress.com/item/1005003767161107.html?gatewayAdapt=glo2deu&spm=a2g0o.order_list.0.0.21ef5c5fvaJho1)
  
 
-[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.de/at/de/entwicklerboards-beschleunigung-gyroskop-3-achsen-mpu-6050-debo-sens-3axis-p253987.html?&trstct=pos_0&nbc=1)
+[**GY-521 MPU-6050** 3-Achsen-Gyroskop und Beschleunigungssensor](https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_beschleunigung_gyroskop_3-achsen_mpu-6050-282539?search=MPU6050&)
 
 [**Lademodul TP4056 6pol. mit USB-C**](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-usb-c-1a-debo1-3-7li-1-0a-p291398.html?CCOUNTRY=445&LANGUAGE=de&GROUP=T9J&START=0&SORT=artnr&OFFSET=16&nbc=1&&r=1)
   - Alternative: [Lademodul mit Micro-USB](https://www.reichelt.de/entwicklerboards-ladeplatine-fuer-3-7v-li-akkus-micro-usb-1a-debo3-3-7li-1-0a-p291401.html?&trstct=pos_1&nbc=1)
@@ -31,7 +31,8 @@
 
 [**4k7 Ohm Metallschichtwiderstand 0,6W**](https://www.reichelt.de/at/de/widerstand-metallschicht-4-70-kohm-0207-0-6-w-1--metall-4-70k-p11784.html?&trstct=pos_0&nbc=1)
 
-[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/dp/B01MFEYZBM/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01MFEYZBM&pd_rd_w=RhDX4&pf_rd_p=bd15b7b9-fa5e-4aef-a5bb-d9e0309ac917&pd_rd_wg=KaHGN&pf_rd_r=ABJ0MRVYEXAHP81MW20H&pd_rd_r=21b91368-36ba-40b3-a235-7ee2a737e575&s=diy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTUlPWE9ITjY2NjYmZW5jcnlwdGVkSWQ9QTA5ODk0MzYxVVBIMjVNSE40SjlFJmVuY3J5cHRlZEFkSWQ9QTA2MzI5MDcyTlNCSVlWV0tYOTQ1JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
+[**Schiebeschalter SK12D07VG3** (Rastermaß 2,0)](https://www.amazon.de/TUNOTYUE-Schiebeschalter-Kippschalter-Elektronische-Spielzeug-Beleuchtungsk%C3%B6rper/dp/B0FCFJMYLV/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DRMRA3KGEUXL&dib=eyJ2IjoiMSJ9.2sT7yP77KqfJle9eE7l1G1a-B-oKZKcJ40kUuJ-mIRrJ2Oh-EFoeMZvYzmbkJwPxK9C0-lxTp-Trfuf24aFNXZxz1U1YWgWI4LMDp4v4dC53H1tSE-UByGNc-spO2d0QPjEnStMuCDuQbSUlABkrN7qErSytH_oy2EOrVCT_Mhb0GbpkVSllvHU0WK-mV9vabofF48nwOWDZbjxWCQdTKFPZrmFprDOAxjsBNhOTJ6wQvOOwdh-CreWI4YWgtRky6iw-_DsYRWY6eTEn4MUHLSNkw-YcbWM8DKmgIOk6WVk.cxbZqWCZI0PDH1eJvidklrxHJQyVy1l7D9SXxhWNLNQ&dib_tag=se&keywords=SK12D07VG3&qid=1773085837&sprefix=sk12d07vg3%2Caps%2C304&sr=8-2&th=1)
 
 ## *Optionaler elektronischer Verpolungsschutz:*
 [**N-LogL MOSFET IRLL024NPbF** im SOT-223 SMD Gehäuse (65mΩ) (Q1)](https://www.reichelt.at/at/de/mosfet-n-logl-55v-4-4a-0-065r-sot223-irll024npbf-p254819.html?&trstct=pos_1&nbc=1)
