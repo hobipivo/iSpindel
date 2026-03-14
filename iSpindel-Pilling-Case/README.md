@@ -3,14 +3,26 @@
 Die **iSpindel hobipivo v4.x PIL** (Aufbau mit Standard-Modulen für DIY) in einem etwas teureren, schwergängigen Kegland Pilling Gehäuse (125mm Länge und 37mm Durchmesser) ist etwas kleiner als das PETling Gehäuse, bietet durch die glatte Oberfläche weniger Angriffsfläche für Ablagerungen und ist leichter zu reinigen.
 
 Die Verwendung in einem Drucktank ist aufgrund der stabilen Bauform und Verwendung von O-Ringen ebenso möglich.
+Aus Platzgründen ist das „D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul zu verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)! 
 
-Beim Pilling Gehäuse ist aus Platzgründen das „D1 mini v4.0 mit USB-C“ oder „Wemos D1 mini Pro v3.0 mit Micro-USB“ Modul zu verwenden (die beiden Versionen haben keinen Chip auf der Unterseite)! 
-
-Die iSpindel hobipivo v4.x PIL kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet werden.
+Die iSpindel hobipivo PIL kann mit einem elektronischen Verpolungsschutz und Verpolungsanzeige sowie bei Verwendung des D1 mini v4.0 Modules mit einer Schutzdiode ausgestattet werden.
 
 Bei der **iSpindel hobipivo v4.1 PIL** mit dem „ESP8266 v4.0 USB-C Modul“, kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses.
 
+Bei der **iSpindel v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Einsatz. Weiters kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) verbaut werden. Voraussetzung ist der Einsatz der GravityMon Firmware ab v2.5.0.
 
+
+ &nbsp;
+
+### iSpindel hobipivo PCB v5.0 PIL Front:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v5.0-PIL_Front-500.jpg "Bild")
+
+&nbsp;
+
+### iSpindel hobipivo PCB v5.0 PIL Back:
+
+![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v5.0-PIL_Back-500.jpg "Bild")
  &nbsp;
 
 ### iSpindel hobipivo PCB v4.1 PIL Front:
