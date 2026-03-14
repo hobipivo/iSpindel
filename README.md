@@ -27,14 +27,16 @@ Die **iSpindel hobipivo v4.x** gibt es in zwei Gehäuseausführungen. Diese sind
 Bei der **iSpindel hobipivo v4.1 PET** können alternativ die ESP32 C3 Mini, ESP32 S2 Mini und ESP32 S3 Mini Module verwendet werden. Voraussetzung ist der Einsatz der GravityMon Firmware.
 
 Bei der **iSpindel hobipivo v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses. 
- 
+
+Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Einsatz. Weiters kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) verbaut werden. Voraussetzung ist der Einsatz der GravityMon Firmware ab v2.5.0.
+
 &nbsp;
 ### iSpindel hobipivo v4.0 / v4.1 PET:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PET-500.jpg "Bild")
 
 &nbsp;
-### iSpindel hobipivo v4.0 / v4.1 PIL:
+### iSpindel hobipivo v4.0 / v4.1 / v5.0 PIL:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_hobipivo-v4.0-PIL-500.jpg "Bild")
 
