@@ -1,7 +1,7 @@
 
 # Software Varianten für die iSpindel
 
-Firmware-Stand Juli 2025:     &nbsp; Standard: 7.3.3 vom 8.8.2023     &nbsp; GravityMon: 2.4.0 vom 12.1.2026
+Firmware-Stand Februar 2026:     &nbsp; Standard: 7.3.3 vom 8.8.2023     &nbsp; GravityMon: 2.4.0 vom 12.1.2026
 
 &nbsp;
 ## Standard:
