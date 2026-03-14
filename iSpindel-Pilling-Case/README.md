@@ -17,7 +17,6 @@ Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Ei
 ### iSpindel hobipivo PCB v5.0 PIL Front:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v5.0-PIL_Front-500.jpg "Bild")
-
 &nbsp;
 
 ### iSpindel hobipivo PCB v5.0 PIL Back:
@@ -28,7 +27,6 @@ Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Ei
 ### iSpindel hobipivo PCB v4.1 PIL Front:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.1-PIL_Front-500.jpg "Bild")
-
 &nbsp;
 
 ### iSpindel hobipivo PCB v4.1 PIL Back:
@@ -40,7 +38,6 @@ Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Ei
 ### iSpindel hobipivo PCB v4.0 PIL Front:
 
 ![Text](https://github.com/hobipivo/iSpindel/blob/main/-img/iSpindel_PCB-v4.0-PIL_Front-500.jpg "Bild")
-
 &nbsp;
 
 ### iSpindel hobipivo PCB v4.0 PIL Back:
