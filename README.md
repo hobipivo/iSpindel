@@ -28,7 +28,7 @@ Bei der **iSpindel hobipivo v4.1 PET** können alternativ die ESP32 C3 Mini, ESP
 
 Bei der **iSpindel hobipivo v4.1 PIL** kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) und ein Reed-Schalter verbaut werden. Damit erspart man sich zum Laden und zum Restart das Öffnen des Gehäuses. 
 
-Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Einsatz. Weiters kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) verbaut werden. Voraussetzung ist der Einsatz der GravityMon Firmware ab v2.5.0.
+Bei der **iSpindel hobipivo v5.0 PIL** kommt das ESP32 C3 SuperMini Modul zum Einsatz. Weiters kann ein optionaler Qi-Receiver (kontaktlose Lademöglichkeit des Akkus) verbaut werden. Voraussetzung ist der Einsatz der GravityMon Firmware ab v2.4.1.
 
 &nbsp;
 ### iSpindel hobipivo v4.0 / v4.1 PET:
