@@ -56,6 +56,12 @@ hobipivo Platinen: https://hobbybrauer.de/forum/viewtopic.php?p=547648#p547648
 
 ## Zusätzliche Informationen:
 
+Der Vorteil der iSpindel zu anderen kommerziellen Spindeln ist, das man nicht auf den Hersteller-Server eingeschränkt ist, sondern die Daten an viele unterschiedliche Systeme (auch mehrere gleichzeitig) gesendet werden können. Weiters ist die Firmware (Software) frei zugänglich und man kann die iSpindel, bei Bedarf, durch die verwendeten Standardmodule preisgünstig reparieren.
+
+&nbsp;
+
+## Zusätzliche Informationen:
+
 Gesamtübersicht:
 www.ispindel.de mit Verweis auf https://braumagazin.de/article/ispindel-die-idee/
 
